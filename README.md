@@ -11,3 +11,4 @@
 - **presentation** презентация ()
 
 ссылка на WandB https://wandb.ai/shiltsov-da/vkr-hse-object-detection
+ссылка на презентацию https://github.com/shiltsov/MOBC-VKR/blob/main/presentation/vkr-presentation.pdf
