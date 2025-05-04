@@ -10,3 +10,4 @@
 - **models** модели. они небольшие поэтому вполне
 - **presentation** презентация ()
 
+ссылка на WandB https://wandb.ai/shiltsov-da/vkr-hse-object-detection
